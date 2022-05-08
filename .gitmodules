@@ -1,0 +1,4 @@
+[submodule "joma-odoo/SH2Master"]
+	path = joma-odoo/SH2Master
+	url = git@github.com:joma-odoo/SH2Master.git
+	branch = master
